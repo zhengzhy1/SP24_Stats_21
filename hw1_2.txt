@@ -5,3 +5,5 @@ Hi, I like the color blue and black
 Hi, I like the color green and red
 
 I like puppies
+
+I like dogs
