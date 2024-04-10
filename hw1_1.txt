@@ -5,3 +5,5 @@ Hi, I like eating apples
 Hi, I like math and statistics
 
 Hi, I hate bugs
+
+Hi, I like games
