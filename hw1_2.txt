@@ -1,1 +1,3 @@
 This is the second txt file for homework1 for stats21.
+
+Hi, I like the color blue and black
